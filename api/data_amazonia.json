@@ -40,5 +40,19 @@
         "analisis_visual":  "Encuadre Composición Balance blancos",
         "palabras_claves": "vapor , trifrontera peru , barco",
         "url": "https://muuds.co/amazonia_data/api/images/Cromos_863.jpg" 
+    },
+        {
+        "id": 4,
+        "titulo": "El atentando del hipodromo de Santa Beatriz",
+        "fecha_de_publicacion": 1923,
+        "tipologia": "Formato",
+        "referencia_del_documento": "Pg 171 - Embarcaciones Vapor LIBERAL Comandante Carlos Zubiaur",
+        "cobertura_geografica": "Colombia",
+        "autor_de_la_imagen": "Crane",
+        "descripcion": "El 30 de abril de 1933 el entonces presidente de la República, el general Luis M. Sánchez Cerro, fue asesinado. Ocurrió en el antiguo hipódromo de Santa Beatriz (hoy Campo de Marte). El magnicida fue un joven de nombre Abelardo Mendoza Leyva, quien -según Jorge Basadre- estaba inscrito en el Partido Aprista desde 1931.",
+        "interpretación": "bla bla bla bla bla bla",
+        "analisis_visual":  "Encuadre Composición Balance blancos",
+        "palabras_claves": "vapor , trifrontera peru , barco",
+        "url": "https://muuds.co/amazonia_data/api/images/Cromos_864.jpg" 
     }
 ]
